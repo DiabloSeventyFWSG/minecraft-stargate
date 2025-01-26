@@ -30,7 +30,7 @@ if opts.k then
 end
 
 local BranchMsg = ""
-local BranchURL = "https://drive.google.com/drive/folders/1OaL_9cV_z78SDt8Nt_qiL5GsD1-U4p1y?usp=drive_link"
+local BranchURL = "https://github.com/DiabloSeventyFWSG/minecraft-stargate"
 local ReleaseVersionsFile = "/ags/releaseVersions.ff"
 local ReleaseVersions = nil
 local LocalVersions = nil
@@ -77,7 +77,7 @@ if filesystem.exists("/ags/devmode") then
 ┌──────────────────────────┐
 │Launcher Set to Dev Branch│
 └──────────────────────────┘]]
-  BranchURL = "https://drive.google.com/drive/folders/1OaL_9cV_z78SDt8Nt_qiL5GsD1-U4p1y?usp=drive_link"
+  BranchURL = "https://github.com/DiabloSeventyFWSG/minecraft-stargate"
 end
 
 
