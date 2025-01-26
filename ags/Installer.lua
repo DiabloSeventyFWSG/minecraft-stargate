@@ -29,9 +29,9 @@ if opts.d then
 ┌───────────────────────────┐
 │Installer Set to Dev Branch│
 └───────────────────────────┘]])
-  BranchURL = "https://drive.google.com/drive/folders/1OaL_9cV_z78SDt8Nt_qiL5GsD1-U4p1y?usp=drive_link"
+  BranchURL = "https://github.com/DiabloSeventyFWSG/minecraft-stargate"
 else
-  BranchURL = "https://drive.google.com/drive/folders/1OaL_9cV_z78SDt8Nt_qiL5GsD1-U4p1y?usp=drive_link"
+  BranchURL = "https://github.com/DiabloSeventyFWSG/minecraft-stargate"
 end
 ReleaseVersionsFile = "/ags/releaseVersions.ff"
 ReleaseVersions = nil
